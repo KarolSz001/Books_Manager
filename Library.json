@@ -1,0 +1,17 @@
+{
+  "publications": {
+    "qqqq": {
+      "author": "rrr",
+      "pages": 23,
+      "isbn": "123321",
+      "date": {
+        "year": 12,
+        "month": 1,
+        "day": 1
+      },
+      "title": "qqqq",
+      "publisher": "ttt"
+    }
+  },
+  "users": {}
+}
