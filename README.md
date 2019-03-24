@@ -1,5 +1,5 @@
 # Books_Manager
-# App for books and magazine management
+## App for books and magazine management
 
 ## Table of contents
 * [General info](#general-info)
@@ -13,7 +13,7 @@
 Siple program to add, remove ,search books
 
 ## Technologies
-* Tech 1 - version 1.0
+* Tech 1 - version 0.4
 
 ## Setup
 Simple you can run in you IDE
