@@ -13,7 +13,9 @@
 Siple program to add, remove ,search books
 
 ## Technologies
-* Tech 1 - version 0.4
+* Java - version 11
+* gson - version 2.8.4
+* maven - version 3.0
 
 ## Setup
 Simple you can run in you IDE
