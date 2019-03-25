@@ -7,7 +7,6 @@
 * [Setup](#setup)
 * [Features](#features)
 * [Status](#status)
-* [Inspiration](#inspiration)
 
 ## General info
 Siple program to add, remove ,search books
@@ -33,12 +32,13 @@ Simple you can run in you IDE
 ## Features
 
 * add Exception
-
-
-To-do list:
 * add Maven
 * add JsonFile
 
+
+To-do list:
+* add SQL
+* add junit
 
 ## Status
 Project is: _in progress_
